@@ -1,0 +1,7 @@
+{
+  "name": "GasGuardian - 智慧燃气管理系统",
+  "description": "基于角色的燃气全流程管理平台，包含钢瓶追踪、订单配送、安检记录及AI安全分析功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
